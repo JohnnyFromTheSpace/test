@@ -1,0 +1,43 @@
+/* front.css */
+#_products > div {
+    padding-bottom: 15px;
+    height: 140px;
+    overflow: hidden;
+}
+
+#_products .ptitle {
+    font-weight: bold;
+}
+
+#_products .pshortd {
+    text-align: justify;
+}
+
+#_products > div > img {
+    width: 100px;
+    float: left;
+    margin-right: 15px;
+}
+
+body > div > form > input {
+    float: right;
+}
+
+#_comments .col-md-12 {
+    background: #e0e0e0;
+    margin: 10px;
+}
+
+#comm_text {
+    height: 150px;
+}
+
+body .container .message_success {
+    background: darkseagreen;
+    padding: 8px;
+}
+
+body .container .message_faild {
+    background: indianred;
+    padding: 8px;
+}

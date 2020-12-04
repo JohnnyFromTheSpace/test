@@ -1,0 +1,16 @@
+{
+    "name": "johnny/citrus",
+    "authors": [
+        {
+            "name": "Johnny",
+            "email": "jovicalokin@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"Space\\": "src/"}
+    },
+    "require": {
+        "symfony/http-foundation": "^5.2",
+        "psy/psysh": "@stable"
+    }
+}
