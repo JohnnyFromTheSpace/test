@@ -3,6 +3,7 @@
 # In root run command:
 	- composer install
 # Set connection parameters in the file src/DbConnect.php
+# Document root: web
 # admin url: 
 	- /index.php/admin
 
